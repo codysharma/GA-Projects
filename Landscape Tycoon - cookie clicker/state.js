@@ -1,4 +1,4 @@
-//alert("Welcome to level 2! As a nascent capitalist, you are no longer laboring yourself but are hiring crews each day. Take it away!")
+alert("Welcome to level 2! As a nascent capitalist, you are no longer laboring yourself but are hiring crews each day. Take it away!")
 
 let totalMoney = 0;
 let moneyDisplay = document.querySelector("#total-money")
