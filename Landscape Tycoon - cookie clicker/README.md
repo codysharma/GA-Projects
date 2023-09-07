@@ -1,4 +1,5 @@
 ## An in-browser, clicker game
+[Live version here](https://pages.git.generalassemb.ly/codysharma-ga/hw-landscaper/)
 
 ### Level 1:
 Click to gain money, unlocking upgrades
